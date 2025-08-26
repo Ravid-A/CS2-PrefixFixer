@@ -22,6 +22,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+build/
 
 # .NET Core
 project.lock.json
@@ -40,6 +41,7 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
+CS2-Pickups.sln.DotSettings.user
 
 # MSBuild Binary and Structured Log
 *.binlog
@@ -52,3 +54,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# IDE-specific
+.idea/
