@@ -2,7 +2,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Ravid-A/CS2-PrefixFixer/total.svg)](https://github.com/Ravid-A/CS2-PrefixFixer/releases)
 [![License](https://img.shields.io/github/license/Ravid-A/CS2-PrefixFixer.svg)](https://github.com/Ravid-A/CS2-PrefixFixer/blob/main/LICENSE)
 
-AFK Manager plugin for CS2 based on PrefixFixer by dkzinhoo from CS:GO
+PrefixFixer plugin for CS2 based on PrefixFixer by dkzinhoo from CS:GO
 
 # Features:
 Config File located in **/addons/counterstrikesharp/configs/plugins/PrefixFixer** with Settings:
